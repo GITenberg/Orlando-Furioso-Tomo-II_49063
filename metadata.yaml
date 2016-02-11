@@ -1,0 +1,31 @@
+_repo: Orlando-Furioso-Tomo-II_49063
+contributor:
+  translator:
+    agent_name: Aranda y Sanjuán, Manuel
+    birthdate: 1845
+    deathdate: 1900
+    gutenberg_agent_id: '43656'
+    url: http://www.gutenberg.org/2009/agents/43656
+    wikipedia: http://es.wikipedia.org/wiki/Manuel_Aranda_San_Juan
+creator:
+  author:
+    agent_name: Ariosto, Lodovico
+    aliases:
+    - Ariosto, Ludovico
+    - Ariost, Lodovico
+    birthdate: 1474
+    deathdate: 1533
+    gutenberg_agent_id: '322'
+    url: http://www.gutenberg.org/2009/agents/322
+    wikipedia: http://en.wikipedia.org/wiki/Ludovico_Ariosto
+description: ''
+gutenberg_issued: '2015-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49063'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Orlando Furioso, Tomo II
+url: http://www.gutenberg.org/ebooks/49063
